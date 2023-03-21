@@ -1,0 +1,13 @@
+#rocketPhoto {
+    text-align: center;
+}
+
+#rocketPhoto img{
+    width: 250px;
+    height: 250px;
+}
+
+#numbers {
+    text-align: center;
+    font-size: 60px;
+}

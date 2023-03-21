@@ -1,0 +1,33 @@
+.celsius-container {
+    margin: 10px;
+}
+
+
+.fahrenheit-container {
+    margin: 20px 0px 0px 10px;
+}
+
+
+#celsiusInput {
+    border: 1px solid;
+}
+
+#fahrenheit {
+    width: 160px;
+    height: 100px;
+    border: 1px solid;
+    text-align: center;
+}
+
+
+.button-container {
+    margin: 10px;
+}
+
+
+button {
+    width: 100px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 20px;
+}
